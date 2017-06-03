@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">Aqua Updater</string>
+    <string name="update_ver" translatable="false">0.1</string>
+    <string name="update_file_url" translatable="false">http://www.warble.eu/wp-content/Files/update_PHONE_MODEL.zip</string>
+    <string name="version_file_url" translatable="false">http://www.warble.eu/wp-content/Files/version_PHONE_MODEL.txt</string>
+    <string name="update_available">Update is available</string>
+    <string name="update_not_available">Update is not available</string>
+    <string name="your_version">Your version :</string>
+    <string name="update_downloading">Update downloading</string>
+    <string name="aqua_mod">Aqua mod</string>
+    <string name="last_checked">Last checked</string>
+    <string name="downloading">Downloading</string>
+    <string name="installing">Installing.. please don\'t close the application</string>
+</resources>
